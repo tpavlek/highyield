@@ -1,0 +1,12 @@
+{
+    "name": "depotwarehouse/highyield",
+    "description": "The mainsite for High Yield Podcast",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Troy Pavlek",
+            "email": "troy@tpavlek.me",
+            "homepage": "http://tpavlek.me"
+        }
+    ]
+}

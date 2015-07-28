@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>{{ site.title }}</title>
+    <link rel="stylesheet" type="text/css" href="/css/all.css">
+    <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.3.0/css/font-awesome.min.css">
+</head>
+<body>
+<div class="content-wrapper">
+    <a href="/">
+        <header class="podcast-header">
+            <img class="podcast-logo" src="/img/logo.png" />
+        </header>
+    </a>
+
+    <section class="podcast-episodes">
+        <div class="podcast-description">
+            {{ site.podcast_description }}
+        </div>
+
+        {% block content_wrapper %}{% block content %}{% endblock %}{% endblock %}
+    </section>
+</div>
+</body>
+</html>

@@ -1,0 +1,145 @@
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://fonts.gstatic.com/s/lato/v11/UyBMtLsHKBKXelqf4x7VRQ.woff2) format('woff2');
+  unicode-range: U100 -24F, U1E00-1EFF, U20A0-20AB, U20AD-20CF, U2C60-2C7F, UA720-A7FF; }
+
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Lato Regular'), local('Lato-Regular'), url(http://fonts.gstatic.com/s/lato/v11/1YwB1sO8YE1Lyjf12WNiUA.woff2) format('woff2');
+  unicode-range: U0 0FF, U131, U152 -153, U2C6, U2DA, U2DC, U2000 -206F, U2074, U20AC, U2212, U2215, UE0FF, UEFFD, UF000; }
+
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(http://fonts.gstatic.com/s/lato/v11/ObQr5XYcoH0WBoUxiaYK3_Y6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+  unicode-range: U100 -24F, U1E00-1EFF, U20A0-20AB, U20AD-20CF, U2C60-2C7F, UA720-A7FF; }
+
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Lato Bold'), local('Lato-Bold'), url(http://fonts.gstatic.com/s/lato/v11/H2DMvhDLycM56KNuAtbJYA.woff2) format('woff2');
+  unicode-range: U0 0FF, U131, U152 -153, U2C6, U2DA, U2DC, U2000 -206F, U2074, U20AC, U2212, U2215, UE0FF, UEFFD, UF000; }
+
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Lato Black'), local('Lato-Black'), url(http://fonts.gstatic.com/s/lato/v11/R4a6fty3waPci7C44H8AjvY6323mHUZFJMgTvxaG2iE.woff2) format('woff2');
+  unicode-range: U100 -24F, U1E00-1EFF, U20A0-20AB, U20AD-20CF, U2C60-2C7F, UA720-A7FF; }
+
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: normal;
+  font-weight: 900;
+  src: local('Lato Black'), local('Lato-Black'), url(http://fonts.gstatic.com/s/lato/v11/tI4j516nok_GrVf4dhunkg.woff2) format('woff2');
+  unicode-range: U0 0FF, U131, U152 -153, U2C6, U2DA, U2DC, U2000 -206F, U2074, U20AC, U2212, U2215, UE0FF, UEFFD, UF000; }
+
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(http://fonts.gstatic.com/s/lato/v11/YMOYVM-eg6Qs9YzV9OSqZfesZW2xOQ-xsNqO47m55DA.woff2) format('woff2');
+  unicode-range: U100 -24F, U1E00-1EFF, U20A0-20AB, U20AD-20CF, U2C60-2C7F, UA720-A7FF; }
+
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 400;
+  src: local('Lato Italic'), local('Lato-Italic'), url(http://fonts.gstatic.com/s/lato/v11/PLygLKRVCQnA5fhu3qk5fQ.woff2) format('woff2');
+  unicode-range: U0 0FF, U131, U152 -153, U2C6, U2DA, U2DC, U2000 -206F, U2074, U20AC, U2212, U2215, UE0FF, UEFFD, UF000; }
+
+/* latin-ext */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(http://fonts.gstatic.com/s/lato/v11/AcvTq8Q0lyKKNxRlL28RnxJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U100 -24F, U1E00-1EFF, U20A0-20AB, U20AD-20CF, U2C60-2C7F, UA720-A7FF; }
+
+/* latin */
+@font-face {
+  font-family: 'Lato';
+  font-style: italic;
+  font-weight: 700;
+  src: local('Lato Bold Italic'), local('Lato-BoldItalic'), url(http://fonts.gstatic.com/s/lato/v11/HkF_qI1x_noxlxhrhMQYEFtXRa8TVwTICgirnJhmVJw.woff2) format('woff2');
+  unicode-range: U0 0FF, U131, U152 -153, U2C6, U2DA, U2DC, U2000 -206F, U2074, U20AC, U2212, U2215, UE0FF, UEFFD, UF000; }
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0; }
+
+body {
+  min-height: 100%;
+  background: #7D4804;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 120%; }
+
+a {
+  color: #E88809; }
+
+.content-wrapper {
+  height: 100%;
+  min-height: 100%;
+  width: 760px;
+  text-align: center;
+  margin: 0 auto; }
+
+.podcast-header {
+  height: 50%;
+  max-height: 50%;
+  margin-bottom: 3rem; }
+  .podcast-header .podcast-logo {
+    height: 100%; }
+
+.podcast-description {
+  font-size: 200%;
+  color: whitesmoke;
+  line-height: 1.5em;
+  margin-bottom: 3rem; }
+
+.podcast-episode.current {
+  width: 100%; }
+
+.podcast-episode {
+  text-align: left;
+  background: #4c2c02;
+  padding: 1rem;
+  margin: 0 auto;
+  margin-bottom: 1rem;
+  width: 70%; }
+  .podcast-episode .episode-date {
+    font-weight: 900;
+    color: slategrey;
+    font-size: 80%;
+    letter-spacing: 0.2em; }
+  .podcast-episode .episode-title {
+    font-weight: bold;
+    color: #E88809;
+    font-size: 150%;
+    margin-top: 0.5em;
+    margin-bottom: 1em; }
+    .podcast-episode .episode-title a {
+      text-decoration: none; }
+    .podcast-episode .episode-title a:hover {
+      text-decoration: underline; }
+  .podcast-episode .episode-embed {
+    margin-bottom: 1em; }
+  .podcast-episode .episode-mp3 {
+    text-decoration: none; }
