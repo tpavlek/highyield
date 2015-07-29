@@ -85,7 +85,7 @@ html, body {
 
 body {
   min-height: 100%;
-  background: #7D4804;
+  background: #C46204;
   text-align: center;
   font-family: 'Lato', sans-serif;
   color: rgba(255, 255, 255, 0.8);
@@ -119,14 +119,14 @@ a {
 
 .podcast-episode {
   text-align: left;
-  background: #4c2c02;
+  background: #924903;
   padding: 1rem;
   margin: 0 auto;
   margin-bottom: 1rem;
   width: 70%; }
   .podcast-episode .episode-date {
     font-weight: 900;
-    color: slategrey;
+    color: black;
     font-size: 80%;
     letter-spacing: 0.2em; }
   .podcast-episode .episode-title {

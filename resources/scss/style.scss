@@ -1,5 +1,6 @@
 $primary-color: #E88809;
-$background-color: #7D4804;
+$background-color: #C46204;
+$date-color: black;
 $block-level-color: darken($background-color, 10%);
 
 html, body {
@@ -64,7 +65,7 @@ a {
 
   .episode-date {
     font-weight: 900;
-    color: slategrey;
+    color: $date-color;
     font-size: 80%;
     letter-spacing: 0.2em;
   }
