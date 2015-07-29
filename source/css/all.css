@@ -142,6 +142,26 @@ a {
   .podcast-episode .episode-mp3 {
     text-decoration: none; }
 
+.hosts {
+  margin-bottom: 2rem; }
+
+.host {
+  display: inline-block; }
+  .host img {
+    display: block;
+    max-width: 100px;
+    margin: 0 auto;
+    margin-bottom: 0.5em; }
+
+footer {
+  margin-top: 3rem;
+  padding-top: 1.5rem;
+  padding-bottom: 0.5rem;
+  background: #924903; }
+
+.host:not(:last-child) {
+  margin-right: 2rem; }
+
 @media screen and (max-width: 775px) {
   .content-wrapper {
     width: 95%; }
