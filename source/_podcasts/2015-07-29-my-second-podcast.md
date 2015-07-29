@@ -2,7 +2,9 @@
 title: "My Second Podcast"
 track_no: 150745932
 description: "Episode 2"
-mp3url: "#"
+mp3url: "http://google.com"
+mp3size: 170
+duration: "00:50:42"
 ---
 
 <ul>

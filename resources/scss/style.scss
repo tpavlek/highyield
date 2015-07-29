@@ -4,15 +4,15 @@ $date-color: black;
 $block-level-color: darken($background-color, 10%);
 
 html, body {
-  height: 100%;
+  min-height: 100%;
   margin: 0;
   padding: 0;
 }
+
 body {
   min-height: 100%;
-
-  background: $background-color;
   text-align: center;
+  background: $background-color;
   font-family: 'Lato', sans-serif;
   color: rgba(255,255,255, 0.8);
   font-size: 120%;
@@ -23,27 +23,25 @@ a {
 }
 
 .content-wrapper {
-  height: 100%;
   min-height: 100%;
   width: 760px;
-  text-align: center;
   margin: 0 auto;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 .podcast-header {
 
-  height: 50%;
-  max-height: 50%;
-
   margin-bottom: 3rem;
 
   .podcast-logo {
-    height: 100%;
+    max-height: 50vh;
   }
 }
 
 .podcast-description {
-  font-size: 200%;
+  font-size: 180%;
   color: whitesmoke;
   line-height: 1.5em;
   margin-bottom: 3rem;
@@ -54,6 +52,7 @@ a {
 }
 
 .podcast-episode {
+  box-sizing: border-box;
   text-align: left;
   background: $block-level-color;
   padding: 1rem;
@@ -92,6 +91,12 @@ a {
   .episode-mp3 {
     text-decoration: none;
   }
+}
+
+@media screen and (max-width: 775px) {
+  .content-wrapper { width: 95%; }
+
+  .podcast-description { font-size: 120%; }
 }
 
 

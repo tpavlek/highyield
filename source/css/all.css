@@ -79,14 +79,14 @@
   unicode-range: U0 0FF, U131, U152 -153, U2C6, U2DA, U2DC, U2000 -206F, U2074, U20AC, U2212, U2215, UE0FF, UEFFD, UF000; }
 
 html, body {
-  height: 100%;
+  min-height: 100%;
   margin: 0;
   padding: 0; }
 
 body {
   min-height: 100%;
-  background: #C46204;
   text-align: center;
+  background: #C46204;
   font-family: 'Lato', sans-serif;
   color: rgba(255, 255, 255, 0.8);
   font-size: 120%; }
@@ -95,21 +95,18 @@ a {
   color: #E88809; }
 
 .content-wrapper {
-  height: 100%;
   min-height: 100%;
   width: 760px;
-  text-align: center;
-  margin: 0 auto; }
+  margin: 0 auto;
+  box-sizing: border-box; }
 
 .podcast-header {
-  height: 50%;
-  max-height: 50%;
   margin-bottom: 3rem; }
   .podcast-header .podcast-logo {
-    height: 100%; }
+    max-height: 50vh; }
 
 .podcast-description {
-  font-size: 200%;
+  font-size: 180%;
   color: whitesmoke;
   line-height: 1.5em;
   margin-bottom: 3rem; }
@@ -118,6 +115,7 @@ a {
   width: 100%; }
 
 .podcast-episode {
+  box-sizing: border-box;
   text-align: left;
   background: #924903;
   padding: 1rem;
@@ -143,3 +141,9 @@ a {
     margin-bottom: 1em; }
   .podcast-episode .episode-mp3 {
     text-decoration: none; }
+
+@media screen and (max-width: 775px) {
+  .content-wrapper {
+    width: 95%; }
+  .podcast-description {
+    font-size: 120%; } }

@@ -1,0 +1,57 @@
+---
+permalink: "rss.xml"
+use: ["podcasts"]
+---
+
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
+    <channel>
+        <link>http://highyieldcast.com</link>
+        <language>en-us</language>
+        <copyright>&#xA9;2015 Troy Pavlek</copyright>
+        <image>
+            <url>http://highyieldcast.com/img/logo.png</url>
+            <title>High Yield Podcast Logo</title>
+            <link>http://highyieldcast.com</link>
+        </image>
+        <title>{{ site.title }}</title>
+
+        <itunes:subtitle>Starcraft discussions worth their weight in gold.</itunes:subtitle>
+        <itunes:summary>{{ site.podcast_description }}</itunes:summary>
+        <description>{{ site.podcast_description }}</description>
+
+        <itunes:author>Troy Pavlek</itunes:author>
+        <itunes:owner>
+            <itunes:name>Troy Pavlek</itunes:name>
+            <itunes:email>troy@tpavlek.me</itunes:email>
+        </itunes:owner>
+
+        <itunes:image href="http://highyieldcast.com/img/logo-lg.png" />
+        <itunes:category text="Games &amp; Hobbies">
+            <itunes:category text="Video Games" />
+        </itunes:category>
+
+        <itunes:explicit>clean</itunes:explicit>
+
+        <webMaster>troy@tpavlek.me (Troy Pavlek)</webMaster>
+        <managingEditor>troy@tpavlek.me (Troy Pavlek)</managingEditor>
+
+        <atom:link href="http://highyieldcast.com/rss.xml" rel="self" type="application/rss+xml" />
+
+        <lastBuildDate>{{ data.podcasts|first.date|date('D, d M y H:i:s O') }}</lastBuildDate>
+
+        {% for episode in data.podcasts %}
+        <item>
+            <title>{{ episode.title }}</title>
+            <description>{{ episode.description }}</description>
+            <itunes:subtitle>{{ episode.description }}</itunes:subtitle>
+            <enclosure url="{{ episode.mp3url }}" type="audio/mpeg" length="{{ episode.mp3size }}" />
+            <guid>{{ site.url}}{{episode.url}}</guid>
+            <itunes:duration>{{ episode.duration}}</itunes:duration>
+            <pubDate>{{ episode.date|date('D, d M y H:i:s O') }}</pubDate>
+            <itunes:summary>{{ episode.description }}</itunes:summary>
+        </item>
+        {% endfor %}
+
+    </channel>
+</rss>

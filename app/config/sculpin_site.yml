@@ -1,2 +1,12 @@
 title: "High Yield Podcast"
 podcast_description: "Feardragon (Breaking Out) and Troy Pavlek (SC2CTL, Starcraft Jeopardy) engage in focused discussions related to Starcraft."
+url: "http://highyieldcast.com"
+google_analytics_id: "UA-65736530-1"
+
+authors:
+  host:
+    name: "Troy Pavlek"
+    email: "troy@tpavlek.me"
+  co-host:
+    name: "Ravi Pareek"
+    email: "feardragon64@gmail.com"

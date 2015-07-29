@@ -2,7 +2,9 @@
 title: "My First Podcast"
 track_no: 150745932
 description: "In the inaugural episode, the team gets down and dirty with the podcasting scene"
-mp3url: "#"
+mp3url: "http://google.com"
+mp3size: 170
+duration: "00:40:24"
 ---
 
 <ul>
