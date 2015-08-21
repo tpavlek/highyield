@@ -142,6 +142,9 @@ a {
   .podcast-episode .episode-mp3 {
     text-decoration: none; }
 
+.episode-show-notes ul {
+  line-height: 1.5em; }
+
 .hosts {
   margin-bottom: 2rem; }
 
