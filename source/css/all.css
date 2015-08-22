@@ -122,6 +122,10 @@ a {
   margin: 0 auto;
   margin-bottom: 1rem;
   width: 70%; }
+  .podcast-episode hr {
+    border: 1px solid #603002;
+    margin-top: 2rem;
+    margin-bottom: 1rem; }
   .podcast-episode .episode-date {
     font-weight: 900;
     color: black;
@@ -172,3 +176,8 @@ footer {
     font-size: 120%; }
   .host {
     width: 50%; } }
+
+#disqus-thread {
+  width: 100%; }
+  #disqus-thread iframe {
+    width: 100%; }
