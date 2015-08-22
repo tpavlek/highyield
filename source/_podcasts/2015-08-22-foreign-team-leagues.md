@@ -1,13 +1,11 @@
 ---
 title: "Foreign Team Leagues"
-track_no: 150745932
+track_no: 220434280
 description: "Ravi and Troy, with special guest Ricky, discuss the pros and cons of Foreign Team Leagues"
-mp3url: "http://google.com"
-mp3size: 170
-duration: "00:40:24"
+mp3url: "http://mp3.highyieldcast.com/001%20-%20Foreign%20Team%20Leagues%20-%20The%20High%20Yield%20Podcast.mp3"
+mp3size: 68498362
+duration: "01:11:21"
 ---
-
-
 
 * [Useless Reddit posts by Feardragon](https://www.reddit.com/search?q=subreddit%3Astarcraft+useless+facts+with+feardragon&restrict_sr=&sort=relevance&t=all)
 * [Ravi's appearance on Starcraft Jeopardy](http://vods.sc2ctl.com/vod/2015/04/21/jeopardy-six-feardragon-neuro-pengwin/)
@@ -24,6 +22,3 @@ duration: "00:40:24"
 * [Arkanoid (Destructible Rock Heaven)](http://wiki.teamliquid.net/starcraft2/Arkanoid)
 * [Dust League](http://dustleague.net/)
 * [Galaxy eSports' Bloodmist (Extremely OP for Terran in TvZ)](http://wiki.teamliquid.net/starcraft2/Bloodmist)
-
-
-
