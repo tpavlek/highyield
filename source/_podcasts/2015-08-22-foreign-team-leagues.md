@@ -22,3 +22,5 @@ duration: "01:11:21"
 * [Arkanoid (Destructible Rock Heaven)](http://wiki.teamliquid.net/starcraft2/Arkanoid)
 * [Dust League](http://dustleague.net/)
 * [Galaxy eSports' Bloodmist (Extremely OP for Terran in TvZ)](http://wiki.teamliquid.net/starcraft2/Bloodmist)
+* [The SC2L's use of delays replays and lack of schedule frustrated viewers](https://www.reddit.com/r/starcraft/comments/1kuqxq/my_constructive_criticism_for_sc2l/)
+* [Hendralisk nearly allkills Team Axiom in the Acer Teamstory Cup](http://www.teamliquid.net/forum/sc2-tournaments/449850-atc-col-dig-vs-axiom-playday-5-season-3)
