@@ -32,6 +32,15 @@
             <img class="podcast-logo" src="/img/logo.png" />
         </header>
     </a>
+    <div class="subscribe-links">
+        <a class="subscribe-link" href="/rss.xml">
+            <i class="fa fa-rss fa-lg"></i>
+        </a>
+
+        <a class="subscribe-link" href="{{ site.itunes_url }}">
+            <i class="fa fa-music fa-lg"></i>
+        </a>
+    </div>
 
     <section class="podcast-episodes">
         <div class="podcast-description">
@@ -84,7 +93,7 @@
     return t;
 }(document, "script", "twitter-wjs"));</script>
 
-{% if site.google_anaytics_id %}
+{% if site.google_analytics_id %}
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

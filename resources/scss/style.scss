@@ -40,6 +40,28 @@ a {
   }
 }
 
+.subscribe-links {
+  margin-bottom: 2rem;
+
+  .subscribe-link {
+    padding: 0.5rem;
+    border: 3px solid $block-level-color;
+    border-radius: 10rem;
+    margin-right: 5rem;
+    text-decoration: none;
+    color: $block-level-color;
+  }
+
+  .subscribe-link:hover {
+    color: $primary-color;
+    border-color: $primary-color;
+  }
+
+  .subscribe-link:last-child {
+    margin-right: 0;
+  }
+}
+
 .podcast-description {
   font-size: 180%;
   color: whitesmoke;

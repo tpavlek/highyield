@@ -105,6 +105,21 @@ a {
   .podcast-header .podcast-logo {
     max-height: 50vh; }
 
+.subscribe-links {
+  margin-bottom: 2rem; }
+  .subscribe-links .subscribe-link {
+    padding: 0.5rem;
+    border: 3px solid #924903;
+    border-radius: 10rem;
+    margin-right: 5rem;
+    text-decoration: none;
+    color: #924903; }
+  .subscribe-links .subscribe-link:hover {
+    color: #E88809;
+    border-color: #E88809; }
+  .subscribe-links .subscribe-link:last-child {
+    margin-right: 0; }
+
 .podcast-description {
   font-size: 180%;
   color: whitesmoke;
