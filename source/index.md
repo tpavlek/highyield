@@ -2,7 +2,7 @@
 layout: default
 generator: pagination
 pagination:
-    max_per_page: 2
+    max_per_page: 10
     provider: data.podcasts
 use:
     - podcasts
