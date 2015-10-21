@@ -21,6 +21,6 @@ sponsor: myinsanity
 4 minutes after we finished recording the segment that Arium tweeted that he was leaving. We decided to leave it in.
 * [Hydra's WCS Toronto "interview"](https://youtu.be/OveyfMExs2o?t=1h28m3s)
 * [Iron Squid's soundtrack](https://www.youtube.com/playlist?list=PLKuDkHH_rKOF1onn30bUM_qtaWQqKLXbC)
-* [Feardragon doesn't actually do *that* bad for viewership(http://www.fuzic.nl/streams/feardragon64/)
+* [Feardragon doesn't actually do *that* bad for viewership](http://www.fuzic.nl/streams/feardragon64/)
 * [Wardi's SC2Improve](http://www.sc2improve.net/)
 * [HIAT Afterthoughts by ZombieGrub](http://www.teamliquid.net/blogs/493879-hiat-afterthoughts)
