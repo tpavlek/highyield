@@ -7,6 +7,18 @@
         {{ episode.description }}
     </section>
     <section class="episode-show-notes">
+        {% if 'myinsanity' in episode.sponsors %}
+            <h3>Sponsored By:</h3>
+            <a href="http://myinsanity.eu/">
+                <img src="/img/sponsor/myi.png" width="120px" />
+            </a>
+            <br />
+            <a href="https://www.facebook.com/mYinsanity.eu">Facebook</a>,
+            <a href="https://twitter.com/mYinsanityEU">Twitter</a>,
+            <a href="https://www.youtube.com/user/mYinsanityeu">YouTube</a>,
+            <a href="http://www.twitch.tv/team/myinsanity">Twitch</a>
+
+        {% endif %}
         <h2>Show Notes:</h2>
         {{ episode.blocks.content|raw }}
     </section>

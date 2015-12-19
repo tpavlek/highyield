@@ -1,11 +1,11 @@
 ---
 title: "Are Starcraft Events Better Than Ever?"
-track_no: 
+track_no: 222477570
 description: "Ravi and Troy, joined by ZombieGrub, discuss the question: Are Starcraft Events better than ever, or have we lost something along the way?"
 mp3url: "http://mp3.highyieldcast.com/002%20-%20Are%20Starcraft%20Events%20Better%20Than%20Ever%20-%20The%20High%20Yield%20Podcast.mp3"
 mp3size: 61100450
 duration: "01:03:39"
-sponsor: myinsanity
+sponsors: [ "myinsanity" ]
 ---
 
 * [Flash vs Life, MLG Dallas Finals 2013](https://www.youtube.com/watch?v=FL3C9Iku9tY)
@@ -21,6 +21,6 @@ sponsor: myinsanity
 4 minutes after we finished recording the segment that Arium tweeted that he was leaving. We decided to leave it in.
 * [Hydra's WCS Toronto "interview"](https://youtu.be/OveyfMExs2o?t=1h28m3s)
 * [Iron Squid's soundtrack](https://www.youtube.com/playlist?list=PLKuDkHH_rKOF1onn30bUM_qtaWQqKLXbC)
-* [Feardragon doesn't actually do *that* bad for viewership(http://www.fuzic.nl/streams/feardragon64/)
+* [Feardragon doesn't actually do *that* bad for viewership](http://www.fuzic.nl/streams/feardragon64/)
 * [Wardi's SC2Improve](http://www.sc2improve.net/)
 * [HIAT Afterthoughts by ZombieGrub](http://www.teamliquid.net/blogs/493879-hiat-afterthoughts)
