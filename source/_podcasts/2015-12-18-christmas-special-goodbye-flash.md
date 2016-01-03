@@ -1,13 +1,13 @@
 ---
-title: "Christmas Special"
-track_no: 
+title: "CHRISTMAS SPECIAL - Goodbye, Flash"
+track_no: 238283584
 description: "This narrative radio drama follows the story of PengWin as he copes with the loss of Flash's Passion"
-mp3url: ""
-mp3size: 
-duration: ""
+mp3url: "http://feeds.soundcloud.com/stream/238283584-troy-pavlek-004-christmas-special-goodbye-flash-the-high-yield-podcast.mp3"
+mp3size: 24014523
+duration: "00:16:40"
 ---
 
-In the most expirimental episode of the High Yield Podcast yet, this full-on radio drama and variety show extravaganza follows
+In the most experimental episode of the High Yield Podcast yet, this full-on radio drama and variety show extravaganza follows
 PengWin as he is visited by the Ghosts of Starcraft Past, Present and Future. We celebrate and experience pain with him as he copes
 with the sudden loss of Flash's Passion and looks within himself to determine what he, and each of us, can do.
 
@@ -21,14 +21,20 @@ Is my comedy to obtuse for you, or just the right amount? I hope you all enjoy t
 
 ### Cast
 
-NARRATOR - [Troy Pavlek](https://twitter.com/troypavlek)
-DOCTOR - [Ravi "feardragon" Pareek](https://twitter.com/feardragon64)
-"GWEN STEFFANI" "PENGWIN" MOTT - [Stefan "PengWin" Mott](https://twitter.com/myipengwin)
-GHOST - [Thomas "JaKaTaK" Labonte](https://twitter.com/jakataktv)
-SPECIAL MUSICAL GUESTS - [Thomas "JaKaTaK" Labonte](https://twitter.com/jakataktv), [Kwame "Temp0" Mensah](https://twitter.com/TeamTemp0)
+* NARRATOR - [Troy Pavlek](https://twitter.com/troypavlek)
+* DOCTOR - [Ravi "feardragon" Pareek](https://twitter.com/feardragon64)
+* "GWEN STEFFANI" "PENGWIN" MOTT - [Stefan "PengWin" Mott](https://twitter.com/myipengwin)
+* GHOST - [Thomas "JaKaTaK" Labonte](https://twitter.com/jakataktv)
+* SPECIAL MUSICAL GUESTS - [Thomas "JaKaTaK" Labonte](https://twitter.com/jakataktv), [Kwame "Temp0" Mensah](https://twitter.com/TeamTemp0)
 
 AND ALSO FEATURING THE STARCRAFT CHRISTMAS CHORUS:
 
+* Damen Knight
 * Trigonal
 * ploguidic3
-* ... etc.
+* Zizlah
+* olimoley
+* Feardragon
+* Troy Pavlek
+* Temp0
+* JaKaTaK
