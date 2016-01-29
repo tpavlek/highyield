@@ -4,3 +4,11 @@
 {% block content_wrapper %}
     {% include '_episode.html' with {'episode':page} %}
 {% endblock %}
+
+{% block twitter_card %}
+    <meta name="twitter:card" content="summary" />
+    <meta name="twitter:site" content="@troypavlek" />
+    <meta name="twitter:title" content="{{ page.title }}" />
+    <meta name="twitter:description" content="{{ page.description }}" />
+    <meta name="twitter:image" content="{{site.url}}/img/logo.png" />
+{% endblock %}
